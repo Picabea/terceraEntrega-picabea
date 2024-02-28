@@ -1,0 +1,4 @@
+[{"title":"Coca Cola 500ml","description":"Esta sabroza cola premium resalta por si sola gracias a su perfecta efervecencia y buen balance de sabores","price":1050,"thumbnail":"www.imagen.com","code":"c500","stock":43,"id":0},
+{"title":"Pepsi 500ml","description":"Refrescante cola con un toque de limón, perfecta para cualquier ocasión.","price":850,"thumbnail":"www.imagen.com/pepsi","code":"p500","stock":50,"id":1},
+{"title":"Fanta Naranja 355ml","description":"Bebida gaseosa con sabor a naranja natural, ideal para acompañar tus comidas.","price":750,"thumbnail":"www.imagen.com/fanta-naranja","code":"f355","stock":60,"id":2},
+{"title":"Schweppes Tónica 250ml","description":"Tónica clásica con un equilibrado sabor a quinina, perfecta para combinar con tu ginebra favorita.","price":600,"thumbnail":"www.imagen.com/schweppes-tonica","code":"s250","stock":25,"id":4}]

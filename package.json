@@ -1,0 +1,15 @@
+{
+  "name": "terceraentrega",
+  "version": "1.0.0",
+  "description": "Servidor en local host capaz de devolver los productos de test.json, filtrarlos mediante su id o limitar la cantidad que devuelve",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
